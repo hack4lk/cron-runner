@@ -1,0 +1,31 @@
+.seconds-group{
+	float:left;
+	margin-right:10px;
+}
+
+.seconds-group input{
+	width:60px;
+}
+
+ul{
+	display:block;
+	float:left;
+	width:100%;
+	height: 500px;
+	overflow-y:auto;
+	overflow-x:hidden;
+	padding:0;
+	margin:0;
+	margin-bottom:40px;
+}
+
+ul li{
+	list-style: none;
+    padding: 5px;
+    margin:3px 2px;
+    border: 1px solid #ccc;
+    display:block;
+    width:90%;
+    float:left;
+    background:#efefef;
+}
